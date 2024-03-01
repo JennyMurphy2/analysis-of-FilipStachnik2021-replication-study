@@ -1,1 +1,1 @@
-# analysis-of-FilipStachnik2021-replication-study
+This repository is part of a large replication project conducted by the Sports Science Replication Centre (https://ssreplicationcentre.com/). It includes the data and analyses for the replication study of "The effects of different doses of caffeine on maximal strength and strength‐endurance in women habituated to caffeine" by Filip-Stachnik et al (2021).
