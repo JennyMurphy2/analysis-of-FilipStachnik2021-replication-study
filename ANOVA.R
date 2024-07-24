@@ -10,7 +10,7 @@ library(MOTE)
 
 # Import and prepare data 
 
-data <- read_csv("replication_data.csv") 
+data <- read_csv("FilipStachnik2021_replicationdata.csv") 
 
 # Convert to long data set
 
